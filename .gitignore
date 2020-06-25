@@ -1,3 +1,7 @@
+washington.csv
+new_york_city.csv
+chicago.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
